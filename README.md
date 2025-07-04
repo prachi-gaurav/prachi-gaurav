@@ -1,5 +1,5 @@
 ## Hi :3
-I'm a student part-time and I'm unelmpoyed full-time.
+I'm a student part-time and I'm unemployed full-time.
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prachigaurav10@gmail.com) 
 
